@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/magiccart/" target="_blank">
   <img src="https://raw.githubusercontent.com/magiccart/magiccart/master/assets/linkedin.svg" Exper" width="20px" />
 </a>
+<a href="https://magepow.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/magiccart/magiccart/master/assets/magepow.png" Exper" width="20px" />
+</a>
 
 If you have spare time, checkout the ⚡ [Magepow](https://github.com/magepow) repositories!
